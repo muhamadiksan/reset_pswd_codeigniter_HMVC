@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>Dashboard - Bisnis Mobil</title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'login/assets/bootstrap/css/bootstrap.css' ?>">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'login/assets/datatable/datatables.css' ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'assets/bootstrap/css/bootstrap.css' ?>">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url().'assets/datatable/datatables.css' ?>">
 	<script type="text/javascript" src="<?php echo base_url().'login/assets/js/jquery.js'; ?>"></script>
 	<script type="text/javascript" src="<?php echo base_url().'login/assets/js/bootstrap.js'; ?>"></script>
 	<script type="text/javascript" src="<?php echo base_url().'login/assets/datatable/jquery.dataTables.js'; ?>"></script>
